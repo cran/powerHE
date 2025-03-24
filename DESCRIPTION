@@ -1,7 +1,7 @@
 Package: powerHE
 Type: Package
 Title: Power and Sample Size Calculations with Hierarchical Endpoints
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
   person(given = "Sarah",
          family = "Wu",
@@ -21,11 +21,10 @@ Description: Calculate sample size or power for hierarchical endpoints.
 License: GPL (>= 2)
 Encoding: UTF-8
 RoxygenNote: 7.3.2
-Imports: skellam
 NeedsCompilation: no
-Packaged: 2025-02-07 05:15:03 UTC; sarahwu
+Packaged: 2025-03-21 03:07:51 UTC; sarahwu
 Author: Sarah Wu [aut, cre],
   Dylan Thibault [aut]
 Maintainer: Sarah Wu <O2E@duke.edu>
 Repository: CRAN
-Date/Publication: 2025-02-10 11:20:02 UTC
+Date/Publication: 2025-03-24 19:30:02 UTC
